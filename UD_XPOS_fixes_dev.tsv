@@ -1,0 +1,14 @@
+id	word	UPOS	XPOS	Morph	uus UPOS	uus XPOS	uus morph
+aja_ee199920_osa4_ud28.enhanced.conllu							
+aja_ee199920_1789							
+Allakirjutanu on põhimõttel think globally, act locally viimasel ajal hoidnud oma südant ersalaste rahvusliku ärkamise juures.							
+4	think	X	S	Foreign=Yes	X	T	Foreign=Yes
+5	globally	X	S	Foreign=Yes	X	T	Foreign=Yes
+7	act	X	S	Foreign=Yes	X	T	Foreign=Yes
+8	locally	X	S	Foreign=Yes	X	T	Foreign=Yes
+							
+aja_luup200009_ud28.enhanced.conllu							
+aja_luup200009_754							
+20. jaanuaril keelas USA California osariigi ringkonnakohus DeCSSi levitamise kogu maailmas - seda küll esialgu ajutiselt (preliminary injunction).							
+18	preliminary	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	X	T	Foreign=Yes
+19	injunction	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing	X	T	Foreign=Yes

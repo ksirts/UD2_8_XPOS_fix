@@ -1,0 +1,1032 @@
+	word	UPOS	XPOS	Morph	uus UPOS	uus XPOS	uus morph																	
+aja_ee199920_osa1_ud28.enhanced.conllu																								
+aja_ee199920_446																								
+Inglaste idee oli rajada vanasse angaari tehaseväljamüügi (factory outlet ingl k) tüüpi kauplus.																								
+9	factory	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+10	outlet	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_ee199920_osa3_ud28.enhanced.conllu																								
+aja_ee199920_1445																								
+Nii et maalikunst on mulle alati tähendanud koodi, kujundite loomist, business to make images.																								
+13	business	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+14	to	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+15	make	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+16	images	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_ee200110_osa_1_ud28.enhanced.conllu																								
+aja_ee200110_79																								
+Eelmise nädala lõpul sai ta kätte nimekaardid, millele on trükitud - Rail Estonia, director of financial procurement.																								
+13	Rail	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+14	Estonia	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+16	director	X	S	_		T	Foreign=Yes																	
+17	of	X	Y	_		T	Foreign=Yes																	
+18	financial	X	S	_		T	Foreign=Yes																	
+19	procurement	X	S	_		T	Foreign=Yes																	
+																								
+aja_ee200110_osa_8_ud28.enhanced.conllu																								
+aja_ee200110_2160																								
+D ai vodka s' dzhinn-tonikom!																								
+1	D	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+2	ai	X	I	Foreign=Yes	X	T	Foreign=Yes																	
+3	vodka	X	S	Foreign=Yes	X	T	Foreign=Yes																	
+4	s'	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+5	dzhinn-tonikom	X	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_ee200110_osa_10_ud28.enhanced.conllu																								
+aja_ee200110_2963																								
+Modernistliku dogma form follows function asemel on Niemeyer öelnud, et funktsionaalne on vorm, mis on eelkõige ilus.																								
+3	form	X	S	_	X	T	Foreign=Yes																	
+4	follows	X	S	_	X	T	Foreign=Yes																	
+5	function	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_ee200110_osa_10_ud28.enhanced.conllu																								
+aja_ee200110_2992																								
+"It's not the drug"																								
+2	It's	X	S	_	X	T	Foreign=Yes																	
+3	not	X	S	_	X	T	Foreign=Yes																	
+4	the	X	S	_	X	T	Foreign=Yes																	
+5	drug	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_ee200110_osa_10_ud28.enhanced.conllu																								
+aja_ee200110_2998																								
+Järjekorras ootavad veel house'i-nui ("It's Not the Drug") ja garaazhi-nui ("Ride The Pony").																								
+7	It's	X	S	_	X	T	Foreign=Yes																	
+8	Not	X	S	_	X	T	Foreign=Yes																	
+9	the	X	S	_	X	T	Foreign=Yes																	
+10	Drug	X	S	_	X	T	Foreign=Yes																	
+17	Ride	X	S	_	X	T	Foreign=Yes																	
+18	The	X	S	_	X	T	Foreign=Yes																	
+19	Pony	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_ee200110_osa_11_ud28.enhanced.conllu																								
+aja_ee200110_3100																								
+Viimane pole küll mingi eriline näitaja, kuid ... you know what I mean.																								
+10	you	X	S	_	X	T	Foreign=Yes																	
+11	know	X	S	_	X	T	Foreign=Yes																	
+12	what	X	S	_	X	T	Foreign=Yes																	
+13	I	X	N	_	X	T	Foreign=Yes																	
+14	mean	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_epl20061216_ud28.enhanced.conllu																								
+aja_epl20061216_236																								
+Näiteks üheks juhtivaks Afganistani eksperdiks peetav Barnett Rubin on käinud seal tänavu neli korda ning kirjutab ajakirjas Foreign Affairs, et Afganistan läheneb murdepunktile.																								
+18	Foreign	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+19	Affairs	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_2.enhanced.conllu																								
+aja_horisont2000_435																								
+Khalsa ordu liikmete, seega kõigi õigete sikhide sümboliteks said viis k-tähega algavat tunnust: kõigepealt ke ša ehk juuksed, mida sikhid kunagi ei lõika, vaid turbani alla krunni koguvad.																								
+17	ke	X	S	_	X	T	Foreign=Yes																	
+18	ša	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_2.enhanced.conllu																								
+aja_horisont2000_509																								
+Esimesel puhul on tegu rangelt võttes transgeensete organismide loomisega, teisel juhul aga saame nn. knock out loomad.																								
+16	knock	X	S	_	X	T	Foreign=Yes																	
+17	out	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu	aja_horisont2000_ud28_osa_2.enhanced.conllu
+aja_horisont2000_532																								
+Transgeensete ja knock out hiireliinide loomine on väga töömahukas tegevus, mis nõuab ülikallist aparatuuri ning eriti hea ettevalmistusega spetsialiste, keda pole sugugi lihtne leida ning koolitada.																								
+3	knock	X	S	_	X	T	Foreign=Yes																	
+4	out	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_2.enhanced.conllu																								
+aja_horisont2000_534																								
+Aeganõudev on ka knock out hiirte valmistamine, sest väljalülitatava geeni leidmine pole sugugi lihtne ega kerge ülesanne.																								
+4	knock	X	S	_	X	T	Foreign=Yes																	
+5	out	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_4.enhanced.conllu																								
+aja_horisont2000_1021																								
+Nii näiteks võiks tšetšeenide tervitust Marsa vog·iyla (meessoost vorm) ja Marsa yog·iyla (naissoost vorm), tõlkida kui vabadus tulijale, lahkumistervitust Marsa g·oyla aga kui vabadus lahkujale, lugupidamisavaldust Marsalla doiytu aga - soovin sulle vabadust.																								
+6	Marsa	X	S	_	X	T	Foreign=Yes																	
+7	vog·iyla	X	S	_	X	T	Foreign=Yes																	
+13	Marsa	X	S	_	X	T	Foreign=Yes																	
+14	yog·iyla	X	S	_	X	T	Foreign=Yes																	
+26	Marsa	X	S	_	X	T	Foreign=Yes																	
+27	g·oyla	X	S	_	X	T	Foreign=Yes																	
+34	Marsalla	X	S	_	X	T	Foreign=Yes																	
+35	doiytu	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_horisont2000_ud28_osa_6.enhanced.conllu																								
+aja_horisont2000_1504																								
+Need on tüüpilised võrkkaelkirjakud (Giraffa camelopardalis reticulata).																								
+6	Giraffa	PROPN	S	Case=Gen|Number=Sing	X	T	Foreign=Yes																	
+7	camelopardalis	X	S	_	X	T	Foreign=Yes																	
+8	reticulata	X	S	_	X	T	Foreign=Yes																	
+																								
+aja_luup200106_osa_3_ud28.enhanced.conllu																								
+aja_luup200106_742																								
+Tuleks vältida ühiskonna jagunemist teljel “ omad-võõrad ”, õiged versus väärad.																								
+11	versus	CCONJ	J	Foreign=Yes			_																	
+																								
+aja_ml200247_osa_2_ud28.enhanced.conllu																								
+aja_ml200247_344																								
+Ainult viieks minutiks, please.																								
+5	please	X	T	_			Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_347																								
+Kuid väga soovitatavad on ka kõik Body & Mind tüüpi treeningud - jooga, pilates, bodybalance -, sest neis saab parandada liikuvust ja samaaegselt tugevdada rühti hoidvaid lihaseid.																								
+7	Body	PROPN	S	Case=Nom|Number=Sing	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing																	
+9	Mind	PROPN	S	Case=Nom|Number=Sing	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing																	
+17	bodybalance	X	Y	Foreign=Yes	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_823																								
+Rolf Roosalu peaaegu falsetini viidud hääl laulus "O Holy Night" pani aga kuulajad vaimustusest kiljuma.																								
+9	O	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+10	Holy	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+11	Night	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_833																								
+Tema lauldud "O Holy Night" ning peaaegu falsetini viidud hääl paneb kuulajad vaimustusest kiljuma.																								
+4	O	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+5	Holy	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+6	Night	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_834																								
+Lauri Pihlap suudab aga Michael Jacksoni kuulsa, inimeste südametunnistusele koputava loo "Earth Song" sõnadesse ja kõlasse panna nii palju talle omast Justin Timberlake'i tämbrit, et kinnisilmi võibki end just selle popi laulja kontserdile unistada.																								
+14	Earth	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+15	Song	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_856																								
+Aasta lõpus peetaval "Sex in the City" pesušõul osalevad veel Katrin Väli, Trinity, Sille Sutting ja teised tuntud nimed.																								
+5	Sex	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+6	in	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+7	the	X	S	Foreign=Yes	X	T	Foreign=Yes																	
+8	City	X	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_878																								
+Eesti muusikat väärtustavast sarjast "ETV live" saab 30. detsembril näha ansambli Smilers esinemist.																								
+7	live	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_sloleht20071217_ud28.enhanced.conllu																								
+aja_sloleht20071217_923																								
+Saku Suurhalli laval astuvad Noorte Sümfooniaorkestri ja Estonian Dream Big Bandi võimsal saatel üles Koit Toome, Gerli Padar, Hanna-Liina Võsa ja Tanel Padar.																								
+8	Estonian	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+11	Bandi	PROPN	S	Case=Gen|Number=Sing	PROPN	S	Case=Gen|Foreign=Yes|Number=Sing																	
+																								
+ilu_kanep_ud28.enhanced.conllu																								
+ilu_kanep_361																								
+Seemne idandusest niipalju, et lase neil 5h leige või sooja vee sees liguneda (á la herned á la d'estonie või mida iganes) ja seejärel pane nad märja villase riide sisse.																								
+16	á	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+17	la	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+19	á	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+20	la	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+21	d'estonie	X	S	_	X	T	Foreign=Yes																	
+																								
+ilu_kanep_ud28.enhanced.conllu																								
+ilu_kanep_368																								
+Maapinnale tõusmine võtab as well paar päeva aega.																								
+4	as	X	D	Foreign=Yes	X	T	Foreign=Yes																	
+5	well	X	D	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+ilu_kanep_ud28.enhanced.conllu																								
+ilu_kanep_636																								
+Sarnast tõika on nenditud ka varasemate uuringute puhul, millest kõige ulatuslikuma valimiga ja seetõttu usaldusväärseim Meltzinger Study of Major Tendencies in Intrapersonal, National, International and Global Idiotism pakub käojaani retsipiendi manipuleeritavuse peamiseks mõjuriks kommunikaatori seksuaalse šankra arengut ning üldist intelligentsitaset.																								
+17	Meltzinger	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+18	Study	PROPN	S	Foreign=Yes	X	T	Foreign=Yes																	
+19	of	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+20	Major	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+21	Tendencies	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+22	in	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+23	Intrapersonal	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+25	National	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+27	International	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+28	and	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+29	Global	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+30	Idiotism	X	Y	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+ilu_maailm_ud28.enhanced.conllu																								
+ilu_maailm_583																								
+" Mne pohui, magab või ei.																								
+2	Mne	X	S	_	X	T	Foreign=Yes																	
+3	pohui	X	S	_	X	T	Foreign=Yes																	
+																								
+ilu_remsu_ud28.enhanced.conllu																								
+ilu_remsu_191																								
+Lennujaama meeneletist ostsin brošüüri "Xinjiang in brief" ("Lühidalt Xinjiangist") ja lugesin, et Ürümchi lennuväli on suuruselt Hiinas viies ning see on reservlennuväljaks Euroopast Pekingisse lendavatele hiidlennukitele.																								
+6	Xinjiang	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+7	in	X	Y	Abbr=Yes	X	T	Foreign=Yes																	
+8	brief	X	Y	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+ilu_remsu_ud28.enhanced.conllu																								
+ilu_remsu_242																								
+Tervitasin neid: "No, rebjata, kak dela?"																								
+5	No	INTJ	I	_	X	T	Foreign=Yes																	
+7	rebjata	X	S	_	X	T	Foreign=Yes																	
+9	kak	X	S	_	X	T	Foreign=Yes																	
+10	dela	X	S	_	X	T	Foreign=Yes																	
+																								
+ilu_vilep_ud28.enhanced.conllu																								
+ilu_vilep_417																								
+"You are so beautiful!" proovis Jan.																								
+4	so	ADV	T	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+ilu_vilep_ud28.enhanced.conllu																								
+ilu_vilep_440																								
+"Tõ u mene jediini, tilki tõ!" ümises pannkook ja ajas jalad laiali.																								
+3	u	ADV	T	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+ilu_vilep_ud28.enhanced.conllu																								
+ilu_vilep_475																								
+" Eeh tõ!																								
+2	Eeh	INTJ	I		X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_98																								
+USB välkmäludraiv (USB flash drive, UFD) on portatiivne välkmälulülitustel põhinev mälukaardike, mis ühendatakse hostseadme (näiteks arvuti) USB-porti.																								
+5	flash	X	S	_	X	T	Foreign=Yes																	
+6	drive	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_106																								
+Nii kasutatakse nimetusi nagu USB flash drive (vahest kõige levinum nimekuju), USB drive, USB stick, USB key, USB memory key, pen drive, key drive, key fob, keychain drive, thumb key, pocket drive, jump drive, thumb drive, magic stick, micro hard drive jt.																								
+6	flash	X	S	_	X	T	Foreign=Yes																	
+7	drive	X	S	_	X	T	Foreign=Yes																	
+16	drive	X	S	_	X	T	Foreign=Yes																	
+19	stick	X	S	_	X	T	Foreign=Yes																	
+22	key	X	S	_	X	T	Foreign=Yes																	
+25	memory	X	S	_	X	T	Foreign=Yes																	
+26	key	X	S	_	X	T	Foreign=Yes																	
+28	pen	X	S	_	X	T	Foreign=Yes																	
+29	drive	X	S	_	X	T	Foreign=Yes																	
+31	key	X	S	_	X	T	Foreign=Yes																	
+32	drive	X	S	_	X	T	Foreign=Yes																	
+34	key	X	S	_	X	T	Foreign=Yes																	
+35	fob	X	S	_	X	T	Foreign=Yes																	
+37	keychain	X	S	_	X	T	Foreign=Yes																	
+38	drive	X	S	_	X	T	Foreign=Yes																	
+40	thumb	X	S	_	X	T	Foreign=Yes																	
+41	key	X	S	_	X	T	Foreign=Yes																	
+43	pocket	X	S	_	X	T	Foreign=Yes																	
+44	drive	X	S	_	X	T	Foreign=Yes																	
+46	jump	X	S	_	X	T	Foreign=Yes																	
+47	drive	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_213																								
+Esmalt kantakse üle loapakett (token packet), seejärel andmepakett (data packet) ja ülekande lõpetab konkreetse andmeülekande käitluspakett (handshake packet).																								
+6	token	X	S	_	X	T	Foreign=Yes																	
+7	packet	X	S	_	X	T	Foreign=Yes																	
+13	data	X	S	_	X	T	Foreign=Yes																	
+14	packet	X	S	_	X	T	Foreign=Yes																	
+23	handshake	X	S	_	X	T	Foreign=Yes																	
+24	packet	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_258																								
+CFG esitab orienteeritud graafi, mille tippudeks on programmi baas- ehk põhiplokid (basic block).																								
+14	basic	X	S	_	X	T	Foreign=Yes																	
+15	block	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_267																								
+Tegumite töötlemist korraldab multiskalaarses protsessoris otseselt tegumijärjesti (task sequencer), mis programmi töötluse käigus järjestab tegumeid spekulatiivselt, eraldades igale tegumile individuaalse töötluselemendi.																								
+9	task	X	S	_	X	T	Foreign=Yes																	
+10	sequencer	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_325																								
+MMM-mudeli loomisel lähtuti omakorda sünkroonsest SISD-arhitektuurist, milles suurem arv miniarvuteid ühendati omavahel maailmastuva leviedastussiini (global broadcasting bus) abil.																								
+17	global	X	S	_	X	T	Foreign=Yes																	
+18	broadcasting	X	S	_	X	T	Foreign=Yes																	
+19	bus	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_340																								
+Kui süsteemis rakendatakse leviedastust mitte lähteandmete (operandide) edastamiseks, vaid töötluse tulemite edastamiseks, siis on tegemist tulemsuhtlust (result communication) rakendava süsteemiga.																								
+22	result	X	D	_	X	T	Foreign=Yes																	
+23	communication	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_353																								
+Protsessorüksuste kasutuses olev mäluruum jagatakse sõltuvalt andmete päritolust kaheks - dubleeritud (replicated) andmete ja edastatud (communicated) andmete mäluruumiks.																								
+13	replicated	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+19	communicated	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_443																								
+Andmekaevandamine (data mining) ei erine põhimõtete poolest traditsioonilisest kaevandamisest - teatud oskusteabe ning vahendite abil püütakse pinnasest kätte saada väärtuslikke maavarasid.																								
+3	data	X	S	_	X	T	Foreign=Yes																	
+4	mining	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_500																								
+Teadmushõive andmebaasidest (knowledge discovery in databases) on mittetriviaalne protsess, mille käigus leitakse andmetest paikapidavaid, uudseid, potentsiaalselt kasulikke ning lõppkokkuvõttes mõistetavaid mustreid.																								
+4	knowledge	X	S	_	X	T	Foreign=Yes																	
+5	discovery	X	S	_	X	T	Foreign=Yes																	
+6	in	X	Y	_	X	T	Foreign=Yes																	
+7	databases	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_507																								
+Vaatamata sellele, et seni kõige autoriteetsema definitsiooni autorid Fayyad et al. [1] sõnastasid üsnagi selgesti sellise definitsiooni hoopis kogu teadmushõive kohta ning kirjeldasid andmekaevandamist kui ühte etappi (rakenduslikku vahendit) terves pikas protsessis, avaldatakse jätkuvalt ja korduvalt ülalesitatud definitsiooni andmekaevandamise definitsioonina, kusjuures autoriks viidataksegi Fayyad et al..																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+52	et	X	J	_	X	J	Foreign=Yes																	
+53	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_602																								
+Lisaks pakub tugevamat ennustusaparatuuri ristmüük (cross-selling and up-selling) - juba rahulolev klient ostab keskmisest suurema tõenäosusega samalt pakkujalt ka teise toote (näiteks lisaks sõiduki kindlustusele ka elukindlustuse) või annab olemasoleva toote asemele müüa suurema/parema (näiteks elamu kindlustamine suurema summa peale).																								
+7	cross-selling	X	S	_	X	T	Foreign=Yes																	
+8	and	X	S	_	X	T	Foreign=Yes																	
+9	up-selling	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_604																								
+kliendikaotuse vältimine (customer retention, customer attrition, churn management) - kõrge konkurentsiga tegevusalades tähendab uue kliendi saamine teisele firmale kliendi kaotust - sellest võimalikult varakult teadasaamine võib aidata seda vältida.																								
+4	customer	X	S	_	X	T	Foreign=Yes																	
+5	retention	X	S	_	X	T	Foreign=Yes																	
+7	customer	X	S	_	X	T	Foreign=Yes																	
+8	attrition	X	S	_	X	T	Foreign=Yes																	
+10	churn	X	S	_	X	T	Foreign=Yes																	
+11	management	NOUN	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_608																								
+eluaegse väärtuse hindamine (LTV - lifetime value) - kogu kliendiksolemise aja jooksul sissetuleva raha määratlemine, lojaalne klient on lisaks ka vähem hinnatundlik.																								
+7	lifetime	X	V	_	X	T	Foreign=Yes																	
+8	value	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_631																								
+Kasutusele võeti sagedaste episoodide analüüs (sequential patterns), mis olemuselt on assotsiatsioonireeglite leidmine koos lisandunud ajalise mõõtmega.																								
+7	sequential	X	S	_	X	T	Foreign=Yes																	
+8	patterns	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_647																								
+Kelmuste avastamine (fraud detection) on seni olnud kaevandamise praktilise rakendamise lipulaev, sest kurjategijad proovivadki ekspluateerida inimeste võimetust suurte hulkade puhul avastada seda, et mängitakse väikestele kõrvalekalletele.																								
+4	fraud	X	S	_	X	T	Foreign=Yes																	
+5	detection	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_682																								
+Andmekaevandamise kasutusvõimaluste uurimisel meditsiinis on suurimaid investeeringuid teinud ilmselgelt ravimifirmad, sest uute ravimite projekteerimine (drug design) on juba oma olemuselt ääretult üldiselt võetuna kombinatsioon ainetest, millele organism üht või teist moodi reageerib (uurimiseesmärgiks seega eri kombinatsioonide lahterdamine).																								
+17	drug	X	S	_	X	T	Foreign=Yes																	
+18	design	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_697																								
+Andmekaevandamise populariseerimine ning eriti assotsiatsioonireeglite leidmise probleem (association rules, affinity analysis) võlgneb suuresti tänu ka jaekaubandusega tegelevate ettevõtete investeeringutele.																								
+9	association	X	S	_	X	T	Foreign=Yes																	
+10	rules	X	S	_	X	T	Foreign=Yes																	
+12	affinity	X	S	_	X	T	Foreign=Yes																	
+13	analysis	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_698																								
+Algselt tuntigi assotsiatsioonireeglite temaatikat rohkem ostukorvi analüüsina (market basket analysis).																								
+9	market	X	S	_	X	T	Foreign=Yes																	
+10	basket	X	S	_	X	T	Foreign=Yes																	
+11	analysis	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_780																								
+Rühmatööd toetava autorvahendi loomiseks paluti abi Helsingi Kunstiülikoolilt (Taideteollinen korkeakoulu, TAIK), kelle töömeeskonnal on eelnev kogemus projektiga ITCOLE (School of Tomorrow), mille raames valmis konstruktivistlikel ideedel põhinev õpikeskkond Fle3.																								
+10	Taideteollinen	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+11	korkeakoulu	X	S	_	X	T	Foreign=Yes																	
+24	School	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+25	of	X	Y	Abbr=Yes	X	T	Foreign=Yes																	
+26	Tomorrow	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_808																								
+lihtsustatud digitaalsete õiguste haldust (DRM - Digital Rights management)																								
+8	Digital	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+9	Rights	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+10	management	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_9																								
+Haigestumus südame-veresoonkonna haigustesse ja nendesse suremus on Eestis väga sagedased (Viigimaa et al., 1999).																								
+13	et	X	J	_	X	J	Foreign=Yes																	
+14	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_12																								
+Nende haiguste tekkes on oluline osa lipiidide metabolismi häiretes ja vereliistakute hüperaktiivsuses (Viigimaa et al., 1994; 1995).																								
+15	et	X	J	_	X	J	Foreign=Yes																	
+16	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_86																								
+On teada, et ω-3-rasvhapetel on oma funktsioon ka bioloogilistes membraanides, eeskätt silma võrkkestas ja kesknärvisüsteemis (Nash et al., 1995b).																								
+20	et	X	Y	_	X	J	Foreign=Yes																	
+21	al.	X	Y	_	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_110																								
+Verenäitajate paranemist ning vererõhu langust ω-3-rasvhapete mõjul on täheldatud paljudes uurimustes (Atkinson et al., 1987; Saynor, Gillot, 1988; Weintraub et al., 1988; Sanders et al., 1989; Li, Steiner, 1990; Molgaard et al., 1990; Sanders, Hinds, 1992; Mark, Sanders, 1994).																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+32	et	X	J	_	X	J	Foreign=Yes																	
+33	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+44	et	X	J	_	X	J	Foreign=Yes																	
+45	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_113																								
+Uurimused on näidanud, et polüküllastumata rasvhapete omastamine sõltub samal ajal ka söödud toorkiu kogusest (Olubajo et al., 1986).																								
+18	et	X	J	_			Foreign=Yes																	
+19	al.	X	Y	Abbr=Yes			Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_114																								
+Meedikute huvi on ω-rasvhapete ravivõime uurimisel kandunud põhiliselt küll südame-veresoonkonna haiguste ennetamisele ja seetõttu just vere kolesteroolisisalduse vähendamisele, kuid paljud uurimused on püüdnud selgitada ka nende hapete võimalikku positiivset mõju väikelastele ja eriti alakaalulistele imikutele (Lasserre et al., 1985; Carlson et al., 1991; 1992; Sanders, Reddy, 1992; Boehm et al., 1996).																								
+39	et	X	J	_	X	J	Foreign=Yes																	
+40	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+45	et	X	J	_	X	J	Foreign=Yes																	
+46	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+59	et	X	J	_	X	J	Foreign=Yes																	
+60	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_115																								
+ω-3-rasvhapete mõjul on täheldatud ka angiini (Saynor et al., 1984) ja psoriaasi (Sanders, 1993) taandumist.																								
+9	et	X	J	_	X	J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_129																								
+Kõige madalama tihedusega (sisaldavad kõige vähem proteiini) on külomikronid, väga madala tihedusega lipoproteiinide puhul kasutatakse ingliskeelset lühendit VLDL (very low density lipoproteins).																								
+23	very	X	S	_	X	T	Foreign=Yes																	
+24	low	X	S	_	X	T	Foreign=Yes																	
+25	density	X	S	_	X	T	Foreign=Yes																	
+26	lipoproteins	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_130																								
+Madala tihedusega lipoproteiinide puhul kasutatakse lühendit LDL (low density lipoproteins).																								
+9	low	X	S	_	X	T	Foreign=Yes																	
+10	density	X	S	_	X	T	Foreign=Yes																	
+11	lipoproteins	NOUN	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_132																								
+Kõrge tihedusega lipoproteiinid HDL (high density lipoproteins) kannavad kolesterooli kudedest maksa ja seda nimetatakse ka heaks kolesterooliks.																								
+6	high	X	S	_	X	T	Foreign=Yes																	
+7	density	X	S	_	X	T	Foreign=Yes																	
+8	lipoproteins	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_145																								
+Möödunud sajandi 90. aastatel uuriti neid seoseid põhjalikult ning leiti, et vereplasma kolesteroolisisaldus sõltub kindlalt ka toidus kasutatavate rasvade koostisest (Dietary …, 1998).																								
+23	Dietary	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_146																								
+Teadlaste huvi äratas juba 1950. a. fakt, et Gröönimaa eskimotel esineb tunduvalt harvem südameinfarkti ja ateroskleroosi kui ameeriklastel (Sinclair, 1953; Nash et al., 1995; Parkinson et al., 1994).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+32	et	X	J	_	X	J	Foreign=Yes																	
+33	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_150																								
+On teada, et Gröönimaa eskimod söövad kuni 400 g kala päevas (Bang, Dyerberg, 1972), jaapanlased kuni 100 g päevas (Kagawa et al., 1982).																								
+28	et	X	J	_	X	J	Foreign=Yes																	
+29	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_151																								
+Nn. Zutpheni uuringutel (Kromhout et al., 1985) selgitati, et suremus südame-veresoonkonna haigustesse oli sellel elanikkonna osal, kes tarbis vähemalt 30 g kala päevas, umbes 50% madalam.																								
+6	et	X	J	_	X	J	Foreign=Yes																	
+7	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_165																								
+Tüüpilises läänelikus toiduratsioonis on vastav suhe - 25: 1, ideaalne oleks 5: 1 (The problems …, 1996).																								
+18	The	X	S	_	X	T	Foreign=Yes																	
+19	problems	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_170																								
+Enamasti loetakse sobivaks (vajalikuks) koguseks 0,1 … 0,4 g ω-3-rasvhappeid päevas (Leskanich, Noble, 1997; Products …, i.a.; The importance …, 1998).																								
+21	Products	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+26	The	X	S	_	X	T	Foreign=Yes																	
+27	importance	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_173																								
+Koronaarhaiguste kliinilistes situatsioonides olevad inimesed vajavad päevas 2-5 g eikosapentaeenhapet + dokosaheksaeenhapet (Barlow et al., 1990; Duthie, Barlow, 1992).																								
+15	et	X	J	_	X	J	Foreign=Yes																	
+16	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_183																								
+ω-6-rasvhapete liigse manustamise eest hoiatavad mitmed teadlased, väites, et see võib mõjutada immuunsüsteemi (Sanders, 1988; Rasmussen et al., 1994), vähendada HDL-kolesterooli kontsentratsiooni (Mattson, Grundy, 1985), suurendada meestel sapikivide tekkimise riski (Sturdevant et al., 1973).																								
+22	et	X	J	_	X	J	Foreign=Yes																	
+23	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+46	et	X	J	_	X	J	Foreign=Yes																	
+47	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_189																								
+Katsetatud on paljusid variante (rapsiõli, linaõli, linaseemned, kalaõlid, vetikad jm.), kuid probleemiks on tavaliselt jäänud toodete ebameeldiv lõhn või maitse (We are …, 1995; The hearty …, 1995).																								
+29	We	X	Y	_	X	T	Foreign=Yes																	
+30	are	X	A	_	X	T	Foreign=Yes																	
+35	The	X	S	_	X	T	Foreign=Yes																	
+36	hearty	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_204																								
+Munarebu rasvhappelist koostist ei mõjuta lindude sööda energeetiline tase ega sööda süsivesikute- või proteiinisisaldus (Gardner, Young, 1972; Andersson et al., 1978; Noble, 1987).																								
+23	et	X	J	_	X	J	Foreign=Yes																	
+24	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_205																								
+Sööda üldise rasvasisalduse muutus muudab veidi ka rebu üldlipiidide sisaldust (Reiser, 1951; Ostrander et al., 1960).																								
+17	et	X	J	_	X	J	Foreign=Yes																	
+18	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_206																								
+Erinevusi rebu rasvhappelises koostises on aga täheldatud erinevate tõugude, liinide ja krosside vahel (Sell et al., 1968; Washburn, 1979, Ahn et al., 1995) ja ka erinevas vanuses lindude vahel (Noble et al., 1986).																								
+17	et	X	J	_	X	J	Foreign=Yes																	
+18	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+27	et	X	J	_	X	J	Foreign=Yes																	
+28	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+40	et	X	J	_	X	J	Foreign=Yes																	
+41	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_217																								
+Erinevate kanakrosside munarebu ω-3-rasvhapete sisaldus, % üldlipiididest (Scheideler et al., 1998)																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_238																								
+Broileriliha rasvhappeline koostis, % üldlipiididest (Ratnayake et al., 1989)																								
+9	et	X	J	_	X	J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_240																								
+Rasvhapete sisaldus broileriliha üldlipiidides ja fosfolipiidides, % (Ackman et al., 1988)																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_241																								
+On täheldatud ka liha rasvhappelise koostise erinevusi vabalt elavatel ja farmilindudel (Koizumi et al., 1991).																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_253																								
+Et lindudele söödetavate rasvarikaste söötadega on võimalik mõjutada ka munarebu ja linnuliha rasva rasvhappelist koostist, on paljude teadlaste poolt katseliselt kindlaks tehtud (Wheeler et al., 1959; Pankey, Stadelman, 1969).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_255																								
+Oliiviõli söötmine põhjustas oleiinhappe taseme suurenemist munarebus (Donaldson, 1967), erinevad aedviljadest pärinevad õlid suurendasid linool- ja linoleenhappe sisaldust munarebus (Summers et al., 1966), kalaõli söötmine suurendas munarebus polüküllastumata rasvhapete osatähtsust (Navarro et al., 1972; Couch, Saloma, 1973; Adams et al., 1989).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+41	et	X	J	_	X	J	Foreign=Yes																	
+42	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+53	et	X	J	_	X	J	Foreign=Yes																	
+54	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_256																								
+Linnuliha rasvhappeline koostis on samuti mõjutatav söödaga (Miller, Robisch, 1969; Ackman et al., 1988; Hargis, Elswyk van, 1993).																								
+16	et	X	J	_	X	J	Foreign=Yes																	
+17	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_257																								
+Kookospähkliõliga saavutati küllastatud rasvhapete koguse suurenemine (Yau et al., 1991), maisiõliga linoolhappe osatähtsuse suurenemine (Marion, Woodroof, 1963) linnurasvas.																								
+9	et	X	J	_	X	J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_258																								
+Samalaadse mõjuga oli sojaõli (Scaife et al., 1990).																								
+7	et	X	J	_	X	J	Foreign=Yes																	
+8	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_259																								
+Polüküllastumata rasvhapete sisalduse suurendamine linnukasvatus-saadustes on õnnestunud mitmete vastavaid rasvhappeid sisaldavate ainetega, eeskätt kalaõlidega (Hulan et al., 1988; Phetteplace, Watkins, 1990; Nash et al., 1995).																								
+18	et	X	J	_	X	J	Foreign=Yes																	
+19	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+30	et	X	J	_	X	J	Foreign=Yes																	
+31	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_272																								
+Heeringaõli ebameeldiva maitse ülekandumise kohta leidub kirjanduses ka andmeid, kui seda oli lindude söödas 20% (Allen et al., 1996a).																								
+20	et	X	J	_	X	J	Foreign=Yes																	
+21	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_282																								
+Linaseemnete omapäraks on nende rohke limaainete, aga ka sinihappe glükosiidi - linamariini - sisaldus (Oll, 1993; Chadha et al., 1995).																								
+22	et	X	J	_	X	J	Foreign=Yes																	
+23	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_287																								
+Linaseemnejahu sisaldavate toodete küpsetamisel-kuumutamisel on? -linoleenhappe kadu minimaalne (Chen et al., 1994), kuid linaseemnete otsest kasutamist inimtoiduainena on veel vähe uuritud (Cunnane et al., 1993).																								
+12	et	X	J	_	X	J	Foreign=Yes																	
+13	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+29	et	X	J	_	X	J	Foreign=Yes																	
+30	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_303																								
+Rapsi (Brassica napus oleifera) kui kultuurtaime on kasvatatud Lõuna-Aasias ja Vahemeremail juba ligi 4000. a. e.m.a.																								
+3	Brassica	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+4	napus	X	V	_	X	T	Foreign=Yes																	
+5	oleifera	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_323																								
+Canola seemnete ja jahu keemiline koostis (Lee et. al., 1955)																								
+9	et.	X	Y	Abbr=Yes		J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes			Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_333																								
+ω-rasvhapete sisalduse tõstmiseks linnukasvatussaadustes on kasutatud ka päevalilleõli (Wiseman et al., 1992), kaeraõli (Schipper et al., 1991) ja sojaõli (Huyghebaert, 1995), kuid nende ainete kasutamine pole leidnud veel laialdast tunnustust.																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+20	et	X	J	_	X	J	Foreign=Yes																	
+21	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_337																								
+Sojaõli rasvhappeline koostis (Hrdinka et al., 1996)																								
+6	et	X	J	_			Foreign=Yes																	
+7	al.	X	Y	Abbr=Yes			Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_349																								
+Lindude mõnede söödakomponentide rasvhappeline koostis, % üld-lipiididest (Jung et al., 1998)																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_351																								
+Mõnede taimeõlide rasvhappeline koostis, % üldlipiididest (Jung et al., 1998)																								
+10	et	X	J	_	X	J	Foreign=Yes																	
+11	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_358																								
+Rasvhapete sisaldus kanabroilerite toores valges ja punases lihas kalajahu sisaldava ratsiooni korral, % lipiidide koguhulgast (Ackman et al., 1988)																								
+19	et	X	J	_	X	J	Foreign=Yes																	
+20	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_362																								
+Kanabroileriliha rasvhappeline koostis erineva koguse mereahvena jahu sisalduse korral ratsioonis, % üldlipiididest (Ratnayake et al., 1989)																								
+16	et	X	J	_	X	J	Foreign=Yes																	
+17	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_368																								
+Häid tulemusi on saadud siiski ka kalaõliga (Miller et al., 1969; Miller, Robisch, 1969).																								
+10	et	X	J	_	X	J	Foreign=Yes																	
+11	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_369																								
+Heeringajahu mõjul muutub broileri kehas sisalduvate lipiidide koostis (Nash et al., 1995).																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_370																								
+Samas ei mõjutanud 3% ameerika heeringa õli lisamine kanade ratsioonile nende munarebu üldlipiidide sisaldust (Elswyk van et al., 1992) ega rebu kolesteroolisisaldust (Hargis et al., 1991).																								
+19	et	X	J	_	X	J	Foreign=Yes																	
+20	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+29	et	X	J	_	X	J	Foreign=Yes																	
+30	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_374																								
+Broilerite rinna- ja jalalihaste rasvhappeline koostis, % rasvhapete metüülestritest (Lopez-Ferrer et al., 1999)																								
+13	et	X	J	_	X	J	Foreign=Yes																	
+14	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_384																								
+Samuti ei mõjutanud nad oluliselt ka lindude väljalangevust (Hulan et al., 1989), söödakulu (Huang et al., 1990), sööda konversiooni ja kehamassi (Hardin et al., 1964; Waldroup et al., 1965; Neudoerffer, Lea, 1966).																								
+11	et	X	J	_	X	J	Foreign=Yes																	
+12	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+20	et	X	J	_	X	J	Foreign=Yes																	
+21	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+32	et	X	J	_	X	J	Foreign=Yes																	
+33	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+38	et	X	J	_	X	J	Foreign=Yes																	
+39	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_385																								
+3% ameerika heeringa õli sisaldus ratsioonis ei mõjunud ka munaproduktiivsusele (Hargis et al., 1991), munarebu massile ega muna keskmisele massile (Elswyk van et al., 1992).																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+29	et	X	J	_	X	J	Foreign=Yes																	
+30	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_386																								
+12% heeringaõli sisaldus ratsioonis ei mõjutanud küll kanade munaproduktiivsust, kuid vähendas muna keskmist massi (Nash et al., 1995).																								
+19	et	X	J	_	X	J	Foreign=Yes																	
+20	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_387																								
+Mitmed teadlased on täheldanud ameerika heeringa õli söötmise positiivset mõju kanabroilerite kasvule (Dansky, 1962; Edwards et al., 1962; Edwards, Marion, 1963).																								
+19	et	X	J	_	X	J	Foreign=Yes																	
+20	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_390																								
+Samas on siiski ka täheldatud näiteks mereahvena õli söötmisel broileritele nende halvemat sööda omastamist ja väiksemat kehamassi (Hulan et al. 1988).																								
+20	et	X	J	_	X	J	Foreign=Yes																	
+21	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_392																								
+Kalaõli positiivset raviefekti on täheldatud tibude nakatumisel Eimeria tenellaga (Allen et al., 1996).																								
+12	et	X	J	_	X	J	Foreign=Yes																	
+13	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_395																								
+Munarebus ei täheldatud organoleptilisi muutusi 1,5 % ameerika heeringa õli lisamisel ratsioonile (Marshall et al., 1994).																								
+15	et	X	J	_	X	J	Foreign=Yes																	
+16	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_399																								
+Ebasoovitavat lõhna või maitset broilerilihas on täheldatud kalajahu või -õli lisamisel broilerite söödale koguses 14% (Dean et al., 1971; Hulan et al., 1989), 4% (Carrick, Hauge, 1926; Dansky, 1962), 2,5 % (Holdas, May, 1966), 2% (Edwards, May, 1965) ja 1,8 % (Hardin et al., 1964).																								
+19	et	X	J	_	X	J	Foreign=Yes																	
+20	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+25	et	X	J	_	X	J	Foreign=Yes																	
+26	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+69	et	X	J	_	X	J	Foreign=Yes																	
+70	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_400																								
+Esineb ka kindlakujuline soovitus: mitte sööta broileritele üle 1,5 % kalaõli (Fry et al., 1965).																								
+15	et	X	J	_	X	J	Foreign=Yes																	
+16	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_402																								
+Lindude ratsioonist soovitatakse kalaõli eemaldada 2-4 nädalat enne tapmist (Miller et al., 1969).																								
+12	et	X	J	_	X	J	Foreign=Yes																	
+13	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_413																								
+Linaseemnejahu söötmisel munakanadele leiti, et see tõstab munarebu ω-3-rasvhapete sisaldust (Farrell, 1994), kuid ei muuda muna summaarset lipiididesisaldust (Jiang et al., 1991; Jiang, Sim, 1993).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_417																								
+Samasugust ω-linoleenhappe suurenemistendentsi on täheldatud ka 15% linaseemnete söötmise korral (Jiang et al., 1992), kuid samas nenditakse ka 36%-l keedetud katsemunadel ebameeldivat kõrvalmaitset.																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_419																								
+a. leiti ka, et linaseemnerikkast söödast omastavad erinevad kanatõud ω-linoleenhapet erinevalt (Ahn et al., 1995).																								
+15	et	X	J	_	X	J	Foreign=Yes																	
+16	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_434																								
+Üle 10% linaõli lisamine kanade söödale põhjustas juba munade lõhna- ja maitseomaduste halvenemist (Leeson et al., 1998).																								
+17	et	X	J	_	X	J	Foreign=Yes																	
+18	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_438																								
+Broilerirasva rasvhappeline koostis, % üldlipiididest (Ahn et al., 1998)																								
+9	et	X	J	_	X	J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_450																								
+Selgitati, et erinev linaõli kogus ei suurenda munarebu lipiidide üldhulka (Suzuki et al., 1994).																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_452																								
+Katserühmas, kus söödas oli 1% linaõli, sisaldas munarebu rohkem dokosaheksaeenhapet ja vähem linoolhapet kui munarebud linaõli lisandita katserühmas (Suzuki et al., 1994).																								
+24	et	X	J	_	X	J	Foreign=Yes																	
+25	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_464																								
+Broileritibude juures on leitud, et neile esimesest elupäevast peale söödetud sööda 10% linaõlisisaldus aitas oluliselt vähendada koktsidioosi (Eimeria tenella) põhjustatud kahjustusi (Allen et al., 1996a; 1996b; 1997).																								
+28	et	X	J	_	X	J	Foreign=Yes																	
+29	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_479																								
+Rapsiõli söötmise (3,5 %) mõju broilerite mõnede kudede rasvhappelisele koostisele, % üldlipiididest (Hrdinka et al., 1996)																								
+18	et	X	J	_	X	J	Foreign=Yes																	
+19	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_484																								
+Kanaliha rasvhappeline koostis erinevate õlide kasutamisel sööda-lisandina, % üldlipiididest (Kim et al., 1998)																								
+13	et	X	J	_	X	J	Foreign=Yes																	
+14	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_491																								
+Sojaõli söötmise (3,5 %) mõju broilerite mõnede kudede rasvhappelisele koostisele, % üldlipiididest (Hrdinka et al., 1996)																								
+18	et	X	J	_	X	J	Foreign=Yes																	
+19	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_497																								
+Teiste õlide puhul on kindlaks tehtud, et kookosõli mõjul suureneb tibude lihas küllastatud rasvhapete sisaldus, oliiviõli mõjul suureneb oleiinhappe sisaldus (Yau et al., 1991).																								
+25	et	X	J	_	X	J	Foreign=Yes																	
+26	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_498																								
+Erinevate õlilisanditega söödetud kanade munarebudes oli kolesteroolitase sõltuv kasutatud õlidest ja langes vastavalt söödetud õlidele: kalaõli - linaõli - päevalilleõli - palmiõli (Li et al., 1996).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_501																								
+On uuritud ka erinevate linnutõugude ω-3-rasvhappe omastamisvõimet söödale ω-linoleenhappe lisamise abil (Cherian et al., 1995).																								
+14	et	X	J	_	X	J	Foreign=Yes																	
+15	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_511																								
+Esmakordselt hakati inimese tervislikku seisundit seostama ω-rasvhapete toimega organismis selle sajandi 70-ndatel aastatel, mil J. Dyerberg jt. avaldasid artikleid eskimote tervise seostest nende toitumisega (Bang, Dyerberg, 1972; Dyerberg et al., 1974).																								
+34	et	X	J	_	X	J	Foreign=Yes																	
+35	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_513																								
+Soovitusi 100 g kalaliha tarbimiseks 2 korda nädalas on erialases kirjanduses antud korduvalt (Keli et al., 1994) ja leitud, et kalaliha tarbimine vähendab ateroskleroosi ja rabanduse ohtu (Leaf, Weber, 1988; Kromhout, 1989, 1992).																								
+16	et	X	J	_	X	J	Foreign=Yes																	
+17	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_526																								
+Mitmete teadlaste uurimused on näidanud, et linaseemnete ja linaõli lisamine toidule on suurendanud ω-linoleenhappe kogust plasma fosfolipiidides (Mantzioris et al., 1994b).																								
+21	et	X	J	_	X	J	Foreign=Yes																	
+22	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_532																								
+Linaseemnelisand söögis ei mõjutanud naiste menstruaaltsüklit (Phipps et al., 1993).																								
+9	et	X	J	_	X	J	Foreign=Yes																	
+10	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_534																								
+Söögile lisatud linaseemnete kogus päevas oli 50 g, linaõli kogus vastavalt 20 g (Cunnane et al., 1993).																								
+17	et	X	J	_	X	J	Foreign=Yes																	
+18	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_541																								
+Suure arvu, 8960 katsealust, suitsetajatega läbi viidud uurimused näitasid, et ω-3-rasvhapped aitavad vältida kroonilisi kopsuhaigusi (bronhiiti ja emfüseemi) (Shahar et al., 1994).																								
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_dr8047_ud28.enhanced.conllu																								
+tea_dr8047_543																								
+Selgitati, et tavaliste munade söömine (isegi 12 muna nädalas) ei suurenda inimveres lipiidide sisaldust (Garwin et al., 1992; Morgan et al., 1993).																								
+20	et	X	J	_	X	J	Foreign=Yes																	
+21	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+26	et	X	J	_	X	J	Foreign=Yes																	
+27	al.	X	Y	Abbr=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_32																								
+Angloameerika ja Euroopa ülikoolides loetakse taolisi kursusi pealkirjade "Earth science" või "Understanding the Earth" all.																								
+10	Earth	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+11	science	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+15	Understanding	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+16	the	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+17	Earth	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_40																								
+Peale selle on kasutatud arvukalt ülevaateartikleid ja üksikküsimuste kohta käivaid artikleid ajakirjade "Nature", "Science" ja "Journal of Geophysical Research" viimasest viiest aastakäigust, samuti mõningaid artikleid ajakirjast "Reviews of Geophysics".																								
+14	Nature	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+18	Science	PROPN	S	Case=Nom|Number=Sing	PROPN	S	Foreign=Yes																	
+22	Journal	PROPN	S	Case=Ade|Number=Sing	X	T	Foreign=Yes																	
+23	of	X	Y	Abbr=Yes	X	T	Foreign=Yes																	
+24	Geophysical	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+25	Research	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+36	Reviews	X	S	_	X	T	Foreign=Yes																	
+37	of	X	Y	Abbr=Yes	X	T	Foreign=Yes																	
+38	Geophysics	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_103																								
+Esimesed suuremad rahvusvaheliselt koordineeritud ettevõtmised geofüüsikas olid kaks rahvusvahelist polaaraastat (International Polar Year) 1882-1883 ja 1932-1933.																								
+12	International	X	S	_	X	T	Foreign=Yes																	
+13	Polar	X	S	_	X	T	Foreign=Yes																	
+14	Year	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_108																								
+Meteoroloogiliste uuringute programmide ja meteoroloogiateenistuste töö koordineerimisega on oma loomisest alates tegelenud Rahvusvaheline Meteoroloogiaorganisatsioon WMO (World Meteorological Organization).																								
+17	World	X	S	_	X	T	Foreign=Yes																	
+18	Meteorological	X	S	_	X	T	Foreign=Yes																	
+19	Organization	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_109																								
+Pärast Teist Maailmasõda oli esimeseks suuremaks ettevõtmiseks ja kogu järgneva koordineerituse aluseks Rahvusvaheline Geofüüsika Aasta (International Geophysical Year) 1957-1959.																								
+17	International	X	S	_	X	T	Foreign=Yes																	
+18	Geophysical	X	S	_	X	T	Foreign=Yes																	
+19	Year	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_129																								
+Rahvusvaheline Meteoroloogia Organisatsioon esitas 1963. a. ÜRO-le ettepaneku globaalsete ilmavaatluste juurutamiseks programmina World Weather Watch.																								
+13	World	X	S	_	X	T	Foreign=Yes																	
+14	Weather	X	S	_	X	T	Foreign=Yes																	
+15	Watch	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_145																								
+Otseselt geofüüsikasse kuuluvat teaduslikku uurimistööd koordineerib 1919. a. loodud Rahvusvaheline Geodeesia ja Geofüüsika Unioon (International Union of Geodesy and Geophysics) IUGG.																								
+16	International	X	S	_	X	T	Foreign=Yes																	
+17	Union	X	S	_	X	T	Foreign=Yes																	
+18	of	X	Y	_	X	T	Foreign=Yes																	
+19	Geodesy	X	S	_	X	T	Foreign=Yes																	
+20	and	X	S	_	X	T	Foreign=Yes																	
+21	Geophysics	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_148																								
+Unioon korraldab ka rahvusvaheliste andmekeskuste süsteemi (World Data Center System) tööd.																								
+8	World	X	S	_	X	T	Foreign=Yes																	
+9	Data	X	S	_	X	T	Foreign=Yes																	
+10	Center	X	S	_	X	T	Foreign=Yes																	
+11	System	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_153																								
+Suur geofüüsika organisatsioon on ka Euroopa Geofüüsika Ühing (European Geophysical Society), mis ühendab individuaalliikmeid.																								
+10	European	X	T	_	X	T	Foreign=Yes																	
+11	Geophysical	X	T	_	X	T	Foreign=Yes																	
+12	Society	PROPN	T	_	X	T	Foreign=Yes																	
+																								
+tea_geofyysika_ud28.enhanced.conllu																								
+tea_geofyysika_194																								
+Viimastel aastatel töötab satelliitide baasil täpne geograafilise asukoha määramise süsteem GPS (Global Positioning System), mis põhineb raadiolainete Doppleri nihke mõõtmisel.																								
+13	Global	X	T	_	X	T	Foreign=Yes																	
+14	Positioning	X	T	_	X	T	Foreign=Yes																	
+15	System	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_toohoive_ud28.enhanced.conllu																								
+tea_toohoive_302																								
+Töötus on turutõrge, mis tuleneb riigisisestest majandusagentide omavahelistest infokuludest ja osutab ceteris paribus ressursside riigisisese organiseerituse ebatõhususele.																								
+13	ceteris	X	T	_	X	T	Foreign=Yes																	
+14	paribus	X	T	_	X	T	Foreign=Yes																	
+																								
+tea_toohoive_ud28.enhanced.conllu																								
+tea_toohoive_363																								
+Mitmed autorid on analüüsinud Eesti tööturul toimunud arenguid ja toonud välja ka erinevusi 90ndate alguse ja lõpu vahel Eesti tööturul, mis on seotud nii majanduskeskkonna arengu kui ka tööturu institutsionaalse korralduse arenguga (Eamets jt. 2000, Täht ja Unt, 2001, Kazjulja, 20021, Helemäe, 2002, Täht, 2002, Eamets, 2001, Rõõm, 2002, Paas et al, 2003 jt).																								
+66	et	X	Y	Foreign=Yes	X	J	Foreign=Yes																	
+67	al	X	Y	Foreign=Yes	X	Y	Abbr=Yes|Foreign=Yes																	
+																								
+tea_toohoive_ud28.enhanced.conllu																								
+tea_toohoive_951																								
+Eesti EL maadesse suunatud tööstusliku ekspordi struktuuris on aastatel 1995-2000 oluliselt tõusnud nn tehnoloogiamahukate harude (technology-driven industries, mille hulka kuulub eelkõige aparaadiehitus, aga ka osa keemiatööstusest), osatähtsus ning on vähenenud töömahukate harude nagu metsa- ja puidutööstus, tekstiilitööstus, õmblustööstus osatähtsus (Landesmann, Stehrer, 2002).																								
+17	technology-driven	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+18	industries	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+																								
+tea_toohoive_ud28.enhanced.conllu																								
+tea_toohoive_952																								
+Et Eesti tehnoloogiakesksete eksportharude osas on toimunud oluline nihe hinnatasemes (unit value ratio) on nende harude puhul Eestist EL-i liikuva toodangu hind (kui usaldada viidatud uuringut) kujunenud juba keskelt läbi kõrgemaks kui taolise toodangu keskmine EL-i sisseostmise hind.																								
+12	unit	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+13	value	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
+14	ratio	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
