@@ -1,9 +1,29 @@
 	word	UPOS	XPOS	Morph	uus UPOS	uus XPOS	uus morph																	
 aja_ee199920_osa1_ud28.enhanced.conllu																								
+aja_ee199920_56																								
+Samas on Eesti Ekspress näinud Maapanga ülekandeid, kus on kirjas without name, without address ehk "ilma nime ja aadressita".																								
+12	without	X	T	_	X	T	Foreign=Yes																	
+13	name	X	T	_	X	T	Foreign=Yes																	
+15	without	X	T	_	X	T	Foreign=Yes																	
+16	address	X	T	_	X	T	Foreign=Yes																	
+																								
+aja_ee199920_osa1_ud28.enhanced.conllu																								
 aja_ee199920_446																								
 Inglaste idee oli rajada vanasse angaari tehaseväljamüügi (factory outlet ingl k) tüüpi kauplus.																								
 9	factory	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
 10	outlet	NOUN	S	Foreign=Yes	X	T	Foreign=Yes																	
+																								
+aja_ee199920_osa2_ud28.enhanced.conllu																								
+aja_ee199920_597																								
+Tuletornist kujundavad noored entusiastid hiiglasliku fallose, mille kallal sooritab oma nilbe live support act 'i Donna Anna, külalisesineja New Yorgist -- maakeeli on tegemist lihtsalt tuletorni vägistamisega.																								
+13	live	X	T	Abbr=Yes	X	T	Foreign=Yes																	
+14	support	X	T	Abbr=Yes	X	T	Foreign=Yes																	
+																								
+aja_ee199920_osa3_ud28.enhanced.conllu																								
+aja_ee199920_1049																								
+Nõukogude ajal oli Sojuz šurnalistov (ajakirjanike liit -- vene k) kõva sõna, Moskvas Arbatil oli eraldi restoran, kus sai ilma järjekorrata ja odavalt süüa.																								
+4	Sojuz	PROPN	S	Case=Nom|Number=Sing	X	X	Foreign=Yes																	
+5	šurnalistov	X	T	_	T	T	Foreign=Yes																	
 																								
 aja_ee199920_osa3_ud28.enhanced.conllu																								
 aja_ee199920_1445																								
@@ -404,6 +424,11 @@ lihtsustatud digitaalsete õiguste haldust (DRM - Digital Rights management)
 8	Digital	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
 9	Rights	PROPN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes																	
 10	management	X	S	_	X	T	Foreign=Yes																	
+																								
+tea_AA_05_6_ud28.enhanced.conllu																								
+tea_AA_05_6_973																								
+Eesti Haridus- ja Teadusministeeriumi esindajaks CALIBRATE projektis ja 4. alamprojektis on Tiigrihüppe Sihtasutus.																								
+5	esindajaks	NOUN	ks	Case=Tra|Number=Sing	NOUN	S	Case=Tra|Number=Sing																	
 																								
 tea_dr8047_ud28.enhanced.conllu																								
 tea_dr8047_9																								

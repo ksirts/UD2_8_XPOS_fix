@@ -18,6 +18,18 @@ Vägivalla ja uimastite teemasid armastava Eminemi kohtusse kaebamist plaanib li
 41	I	X	N	_	X	T	Foreign=Yes
 42	do	X	Y	_	X	T	Foreign=Yes
 							
+aja_pm20000218_osa_3_ud28.enhanced.conllu							
+aja_pm20000218_710							
+Ja homme õhtul toob “ sajandilõpu Ameerika kroonik ” Oliver Stone viimase võistlusfilmina zhürii ja rahva ette oma järjekordse american dream 'i analüüsi.							
+20	american	NOUN	S	Case=Nom|Number=Sing	X	T	Foreign=Yes
+21	dream'i	NOUN	S	Case=Nom|Number=Sing	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing
+							
+aja_pm20000218_osa_4_ud28.enhanced.conllu							
+aja_pm20000218_1000							
+Süüakse hot dog'e, lonksatakse pepsit ja karjutakse hääled kähedaks.							
+2	hot	NOUN	S	Case=Nom|Number=Sing	NOUN	S	Case=Nom|Foreign=Yes|Number=Sing
+3	dog'e	NOUN	S	Case=Par|Number=Plur	NOUN	S	Case=Par|Foreign=Yes|Number=Plur
+							
 ilu_sauter_ud28.enhanced.conllu							
 ilu_sauter_306							
 Kui nii küsitaks, siis tahaks selges eesti keeles ja kultuurselt vastata: fuck off.							
@@ -107,3 +119,27 @@ ilu_sauter_655
 Ja otsustasid - nu nahui - liiga kallis lõbu - ja jätsid tüdrukud tellimata.							
 4	nu	ADV	D	_	X	T	Foreign=Yes
 5	nahui	ADV	D	Foreign=Yes	X	T	Foreign=Yes
+							
+tea_dr8020_ud28.enhanced.conllu							
+tea_dr8020_49							
+Käesolevas töös on uudseks lähenemiseks analüüsitulemuste graafiline esitamine nii, et vastavate arvutuste abil tuuakse eraldi välja iga teguri mõju sissetulekute ebavõrdsusele ceteris paribus ehk põhjuslik seos ja võrreldakse seda koguseost kirjeldava vaatluste pilvega.							
+23	ceteris	X	S	Case=Ine|Number=Sing	X	T	Foreign=Yes
+24	paribus	X	S	Case=Nom|Number=Sing	X	T	Foreign=Yes
+							
+tea_dr8020_ud28.enhanced.conllu							
+tea_dr8020_58							
+Töö eesmärk on näidata, et sissetulekute ebavõrdsuse mõjurite uurimiseks on otstarbekas kasutada struktuurset modelleerimist, ja selgitada sel viisil välja kirjanduses käsitletud oletatavate mõjurite kogumõju sissetulekute ebavõrdsusele ceteris paribus.							
+29	ceteris	X	S	Case=Nom|Number=Sing	X	T	Foreign=Yes
+30	paribus	X	S	Case=Nom|Number=Sing	X	T	Foreign=Yes
+							
+tea_dr8020_ud28.enhanced.conllu							
+tea_dr8020_89							
+Tutvustatud on ka käesoleva töö problemaatika seisukohast huvipakkuvat metoodikat analüüsitulemuste esitamiseks toomaks graafiliselt välja iga teguri mõju huvipakkuvale nähtusele ceteris paribus.							
+20	ceteris	X	S	_	X	T	Foreign=Yes
+21	paribus	X	S	_	X	T	Foreign=Yes
+							
+tea_dr8020_ud28.enhanced.conllu							
+tea_dr8020_103							
+Lõpuks on välja toodud kõigi analüüsitud mõjurite kogumõju sissetulekute ebavõrdsusele ceteris paribus ka graafiliselt ning võrreldud seda andmepõhist koguseost kirjeldava vaatluste pilvega.							
+11	ceteris	X	S	_	X	T	Foreign=Yes
+12	paribus	X	S	_	X	T	Foreign=Yes
